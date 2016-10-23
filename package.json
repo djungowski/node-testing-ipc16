@@ -1,0 +1,34 @@
+{
+  "name": "node-testing-ipc16",
+  "version": "1.0.0",
+  "description": "Source codes of the \"Testing your Node Application\" session at the IPC16",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-supertest": "^1.0.0",
+    "mockery": "^2.0.0",
+    "supertest": "^2.0.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djungowski/node-testing-ipc16.git"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "jasmine",
+    "supertest",
+    "mockery",
+    "ipc"
+  ],
+  "author": "Dominik Ehrenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djungowski/node-testing-ipc16/issues"
+  },
+  "homepage": "https://github.com/djungowski/node-testing-ipc16#readme"
+}
