@@ -7,6 +7,7 @@
   "devDependencies": {
     "jasmine": "^2.5.2",
     "jasmine-supertest": "^1.0.0",
+    "jsonschema": "^1.1.0",
     "mockery": "^2.0.0",
     "supertest": "^2.0.1"
   },
