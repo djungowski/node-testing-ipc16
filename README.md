@@ -1,6 +1,11 @@
 # node-testing-ipc16
 Source codes of the "Testing your Node Application" session at the IPC16
 
+## Clone repo
+````bash
+git clone git@github.com:djungowski/node-testing-ipc16.git
+````
+
 ## Install dependencies
 ````bash
 npm install
